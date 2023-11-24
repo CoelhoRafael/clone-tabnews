@@ -1,8 +1,5 @@
 function Home() {
-  return <h1>Eu comi coco e gostei</h1>;
+  return <h1>Calma o coração calabrezo</h1>;
 }
 
-function teste() {
-  return "pqp";
-}
 export default Home;
